@@ -49,13 +49,7 @@ Make sure, flutter is installed in your machine. If not, then follow this: [INST
 Clone the project
 
 ```bash
-  git clone https://github.com/vibhudawar/flutter-app-firebase.git
-```
-
-Go to the project directory
-
-```bash
-  cd chat_app
+  git clone https://github.com/vibhudawar/WhatsInstant.git .
 ```
 
 Install dependencies
